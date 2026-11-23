@@ -3,9 +3,9 @@ title: 'Weibull en bref et avec R...'
 author: "S. Jaubert"
 date: "1er février 2021"
 output:
+  word_document: default
   html_document: default
   pdf_document: default
-  word_document: default
 ---
 
 #### **Avant-propos - La fiabilité, c'est...**
